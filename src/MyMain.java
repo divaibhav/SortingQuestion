@@ -9,6 +9,7 @@ public class MyMain {
 
     }
     public static void sort(SinglyLinkedList linkedList){
-        //complete the method to sort the given linked list
+        //complete the method
+        // to sort the given linked list using bubble sort Algo
     }
 }
